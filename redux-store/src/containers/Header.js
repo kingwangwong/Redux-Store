@@ -4,7 +4,7 @@ const Header = () => {
     return(
         <div className="ui fixed menu">
             <div className="ui container center">
-                <h2>Shopper!</h2>
+                <h2>Redux Store</h2>
             </div>
         </div>
     )
